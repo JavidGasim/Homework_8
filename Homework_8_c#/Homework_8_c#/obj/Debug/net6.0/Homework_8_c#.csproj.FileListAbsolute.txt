@@ -1,0 +1,14 @@
+C:\Users\gasim\source\repos\Homework_8_c#\Homework_8_c#\bin\Debug\net6.0\Homework_8_c#.exe
+C:\Users\gasim\source\repos\Homework_8_c#\Homework_8_c#\bin\Debug\net6.0\Homework_8_c#.deps.json
+C:\Users\gasim\source\repos\Homework_8_c#\Homework_8_c#\bin\Debug\net6.0\Homework_8_c#.runtimeconfig.json
+C:\Users\gasim\source\repos\Homework_8_c#\Homework_8_c#\bin\Debug\net6.0\Homework_8_c#.dll
+C:\Users\gasim\source\repos\Homework_8_c#\Homework_8_c#\bin\Debug\net6.0\Homework_8_c#.pdb
+C:\Users\gasim\source\repos\Homework_8_c#\Homework_8_c#\obj\Debug\net6.0\Homework_8_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gasim\source\repos\Homework_8_c#\Homework_8_c#\obj\Debug\net6.0\Homework_8_c#.AssemblyInfoInputs.cache
+C:\Users\gasim\source\repos\Homework_8_c#\Homework_8_c#\obj\Debug\net6.0\Homework_8_c#.AssemblyInfo.cs
+C:\Users\gasim\source\repos\Homework_8_c#\Homework_8_c#\obj\Debug\net6.0\Homework_8_c#.csproj.CoreCompileInputs.cache
+C:\Users\gasim\source\repos\Homework_8_c#\Homework_8_c#\obj\Debug\net6.0\Homework_8_c#.dll
+C:\Users\gasim\source\repos\Homework_8_c#\Homework_8_c#\obj\Debug\net6.0\refint\Homework_8_c#.dll
+C:\Users\gasim\source\repos\Homework_8_c#\Homework_8_c#\obj\Debug\net6.0\Homework_8_c#.pdb
+C:\Users\gasim\source\repos\Homework_8_c#\Homework_8_c#\obj\Debug\net6.0\Homework_8_c#.genruntimeconfig.cache
+C:\Users\gasim\source\repos\Homework_8_c#\Homework_8_c#\obj\Debug\net6.0\ref\Homework_8_c#.dll
